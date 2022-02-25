@@ -10,3 +10,4 @@
  - <a href = "https://velog.io/@swkiim/3-3">데이터베이스 프로그래밍<a>
 ## ✅Python
  - <a href = "https://velog.io/@swkiim/Variables-Operator">기초(연산)<a>
+ - <a href = "https://velog.io/@swkiim/If-List-For">기초(If, List, For)<a>
