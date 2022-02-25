@@ -8,3 +8,5 @@
  - <a href = "https://velog.io/@swkiim/3-12">데이터베이스 이해-2<a>
  - <a href = "https://velog.io/@swkiim/3-2">SQL 활용<a>
  - <a href = "https://velog.io/@swkiim/3-3">데이터베이스 프로그래밍<a>
+## ✅Python
+ - <a href = "https://velog.io/@swkiim/Variables-Operator">연산<a>
