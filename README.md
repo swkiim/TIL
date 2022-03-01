@@ -11,3 +11,4 @@
 ## ✅Python
  - <a href = "https://velog.io/@swkiim/Variables-Operator">기초(연산)<a>
  - <a href = "https://velog.io/@swkiim/If-List-For">기초(If, List, For)<a>
+ - <a href = "https://velog.io/@swkiim/Numpy">numpy 활용법<a>
