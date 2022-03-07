@@ -15,3 +15,4 @@
  - <a href = "https://velog.io/@swkiim/Numpy">numpy 활용법<a>
 ## ✅CCNA
  - <a href = "https://velog.io/@swkiim/ENSA-OSPF-1">CCNA(ENSA)-OSPF<a>
+ - <a href = "https://velog.io/@swkiim/ENSA-OSPF-2">CCNA(ENSA)2-OSPF<a>
