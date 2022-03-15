@@ -14,6 +14,7 @@
  - <a href = "https://velog.io/@swkiim/If-List-For">기초(If, List, For)<a>
  - <a href = "https://velog.io/@swkiim/Numpy">numpy 활용법<a>
  - <a href = "https://velog.io/@swkiim/Set-Bool">기초(Set, Bool)<a>
+ - <a href = "https://velog.io/@swkiim/While">기초(While)<a>
 ## ✅CCNA
  - <a href = "https://velog.io/@swkiim/CCNAENSA-OSPF-1">CCNA(ENSA)-OSPF<a>
  - <a href = "https://velog.io/@swkiim/CCNAENSA-OSPF-2">CCNA(ENSA)2-OSPF<a>
