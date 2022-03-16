@@ -20,3 +20,4 @@
  - <a href = "https://velog.io/@swkiim/CCNAENSA-OSPF-1">CCNA(ENSA)-OSPF<a>
  - <a href = "https://velog.io/@swkiim/CCNAENSA-OSPF-2">CCNA(ENSA)2-OSPF<a>
  - <a href = "https://velog.io/@swkiim/CCNAENSA-ospf-3">CCNA(ENSA)3-OSPF<a>
+ - <a href = "https://velog.io/@swkiim/CCNAENSA-ospfv2-1">CCNA(ENSA)-OSPFv2-ID<a>
