@@ -16,6 +16,7 @@
  - <a href = "https://velog.io/@swkiim/Set-Bool">기초(Set, Bool)<a>
  - <a href = "https://velog.io/@swkiim/While">기초(While)<a>
  - <a href = "https://velog.io/@swkiim/Function">기초(def, lambda)<a>
+ - <a href = "https://velog.io/@swkiim/IO-F">기초(입출력 함수, 파일관리)<a>
 ## ✅CCNA
  - <a href = "https://velog.io/@swkiim/CCNAENSA-OSPF-1">CCNA(ENSA)-OSPF<a>
  - <a href = "https://velog.io/@swkiim/CCNAENSA-OSPF-2">CCNA(ENSA)2-OSPF<a>
