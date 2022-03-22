@@ -1,5 +1,5 @@
 # TIL
-## ✅정보처리산업기사
+## ✅정보처리산업기사 - 필기
  - <a href = "https://velog.io/@swkiim/1-1">응용 SW 기초 기술 활용<a>
  - <a href = "https://velog.io/@swkiim/1-21">애플리케이션 설계-1<a>
  - <a href = "https://velog.io/@swkiim/1-22">애플리케이션 설계-2<a>
@@ -9,6 +9,8 @@
  - <a href = "https://velog.io/@swkiim/3-2">SQL 활용<a>
  - <a href = "https://velog.io/@swkiim/3-3">데이터베이스 프로그래밍<a>
  - <a href = "https://velog.io/@swkiim/GoF">GoF 디자인패턴<a>
+## ✅정보처리산업기사 - 실기
+ - <a href = "https://velog.io/@swkiim/1-os">응용 SW 기초 기술 활용 - (OS)<a>
 ## ✅Python
  - <a href = "https://velog.io/@swkiim/Variables-Operator">기초(연산)<a>
  - <a href = "https://velog.io/@swkiim/If-List-For">기초(If, List, For)<a>
