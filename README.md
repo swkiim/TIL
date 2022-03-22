@@ -11,6 +11,7 @@
  - <a href = "https://velog.io/@swkiim/GoF">GoF 디자인패턴<a>
 ## ✅정보처리산업기사 - 실기
  - <a href = "https://velog.io/@swkiim/1-os">응용 SW 기초 기술 활용 - (OS)<a>
+ - <a href = "https://velog.io/@swkiim/1-db">응용 SW 기초 기술 활용 - (DB)<a>
 ## ✅Python
  - <a href = "https://velog.io/@swkiim/Variables-Operator">기초(연산)<a>
  - <a href = "https://velog.io/@swkiim/If-List-For">기초(If, List, For)<a>
