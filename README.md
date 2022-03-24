@@ -28,6 +28,7 @@
  - <a href = "https://velog.io/@swkiim/Module">기초(module)<a>
  - <a href = "https://velog.io/@swkiim/Package">기초(package)<a>
  - <a href = "https://velog.io/@swkiim/try-except">기초(예외처리)<a>
+ - <a href = "https://velog.io/@swkiim/built-in-function">기초(내장함수)<a>
 ## ✅CCNA
  - <a href = "https://velog.io/@swkiim/CCNAENSA-OSPF-1">CCNA(ENSA)-OSPF<a>
  - <a href = "https://velog.io/@swkiim/CCNAENSA-OSPF-2">CCNA(ENSA)2-OSPF<a>
