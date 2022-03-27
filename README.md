@@ -16,6 +16,7 @@
  - <a href = "https://velog.io/@swkiim/1-device-protocol">응용 SW 기초 기술 활용 - (장비, 프로토콜)<a>
  - <a href = "https://velog.io/@swkiim/1-develop">응용 SW 기초 기술 활용 - (개발환경 및 도구, 서버 개발 과정)<a>
  - <a href = "https://velog.io/@swkiim/NewTech">응용 SW 기초 기술 활용 - (신기술 및 용어)<a>
+ - <a href = "https://velog.io/@swkiim/UI-test">UI 테스트<a>
 ## ✅Python
  - <a href = "https://velog.io/@swkiim/Variables-Operator">기초(연산)<a>
  - <a href = "https://velog.io/@swkiim/If-List-For">기초(If, List, For)<a>
