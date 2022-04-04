@@ -39,3 +39,4 @@
  - <a href = "https://velog.io/@swkiim/CCNAENSA-ospfv2-1">CCNA(ENSA)-OSPFv2-RouterID<a>
  - <a href = "https://velog.io/@swkiim/CCNAENSA-ospf-p2p">CCNA(ENSA)-OSPFv2-P2P<a>
  - <a href = "https://velog.io/@swkiim/CCNAENSA-ospfv2-multiaccess">CCNA(ENSA)-OSPFv2-Multiaccess<a>
+ - <a href = "https://velog.io/@swkiim/CCNAENSA-ospfv2-Single-Area">CCNA(ENSA)-OSPFv2-SingleArea<a>
