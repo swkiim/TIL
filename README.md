@@ -19,6 +19,7 @@
  - <a href = "https://velog.io/@swkiim/UI-test">UI 테스트<a>
  - <a href = "https://velog.io/@swkiim/UI">화면 구현<a>
  - <a href = "https://velog.io/@swkiim/programming-lang-1">프로그래밍 언어 활용 - (데이터 입출력, 제어문)<a>
+ - <a href = "https://velog.io/@swkiim/programming-lang-2">프로그래밍 언어 활용 - (포인터, 구조체, 사용자 정의함수)<a>
 ## ✅Python
  - <a href = "https://velog.io/@swkiim/Variables-Operator">기초(연산)<a>
  - <a href = "https://velog.io/@swkiim/If-List-For">기초(If, List, For)<a>
