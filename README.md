@@ -23,6 +23,7 @@
  - <a href = "https://velog.io/@swkiim/programming-lang-3">프로그래밍 언어 활용 - (Java, Python)<a>
  - <a href = "https://velog.io/@swkiim/programming-lang-4">프로그래밍 언어 활용 - (절차적언어, 객체지향언어, 스크립트언어, 선언형언어, 라이브러리)<a>
  - <a href = "https://velog.io/@swkiim/SQL-1">SQL 활용 - (DDL, DCL, DML)<a>
+ - <a href = "https://velog.io/@swkiim/SQL-2">SQL 활용 - (DML - (SELECT, JOIN), 데이터 사전)<a>
 ## ✅Python
  - <a href = "https://velog.io/@swkiim/Variables-Operator">기초(연산)<a>
  - <a href = "https://velog.io/@swkiim/If-List-For">기초(If, List, For)<a>
