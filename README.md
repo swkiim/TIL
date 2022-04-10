@@ -25,6 +25,7 @@
  - <a href = "https://velog.io/@swkiim/SQL-1">SQL 활용 - (DDL, DCL, DML)<a>
  - <a href = "https://velog.io/@swkiim/SQL-2">SQL 활용 - (DML - (SELECT, JOIN), 데이터 사전)<a>
  - <a href = "https://velog.io/@swkiim/app-test">애플리케이션 테스트 수행<a>
+ - <a href = "https://velog.io/@swkiim/app-distribute">애플리케이션 배포<a>
 ## ✅Python
  - <a href = "https://velog.io/@swkiim/Variables-Operator">기초(연산)<a>
  - <a href = "https://velog.io/@swkiim/If-List-For">기초(If, List, For)<a>
