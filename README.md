@@ -51,3 +51,4 @@
  - <a href = "https://velog.io/@swkiim/CCNAENSA-ospfv2-Verity">CCNA(ENSA)-OSPFv2-Verify-OSPFv2<a>
  - <a href = "https://velog.io/@swkiim/CCNAENSA-ACL">CCNA(ENSA)-ACL<a>
  - <a href = "https://velog.io/@swkiim/CCNAENSA-ACL-2">CCNA(ENSA)-ACL(실습)<a>
+ - <a href = "https://velog.io/@swkiim/CCNAENSA-setACL">CCNA(ENSA)-setACL<a>
