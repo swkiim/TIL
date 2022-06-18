@@ -52,3 +52,4 @@
  - <a href = "https://velog.io/@swkiim/CCNAENSA-ACL">CCNA(ENSA)-ACL<a>
  - <a href = "https://velog.io/@swkiim/CCNAENSA-ACL-2">CCNA(ENSA)-ACL(실습)<a>
  - <a href = "https://velog.io/@swkiim/CCNAENSA-setACL">CCNA(ENSA)-setACL<a>
+ - <a href = "https://velog.io/@swkiim/CCNAENSA-single-area-ospfv2lab">CCNA(ENSA) - single area ospfv2(실습)<a>
