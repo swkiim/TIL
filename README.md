@@ -64,5 +64,8 @@
  - <a href = "https://velog.io/@swkiim/Make">Make<a>
  - <a href = "https://velog.io/@swkiim/edit-makefile">Make 사용하기<a>
  - <a href = "https://velog.io/@swkiim/docker-udp">UDP 통신<a>
-## ✅ ETC
+## ✅ETC
  - <a href = "https://velog.io/@swkiim/Linux-file-system">Linux 파일 구조<a>
+## ✅CentOS
+ - <a href = "https://velog.io/@swkiim/CentOS-create">CentOS 생성<a>
+ 
