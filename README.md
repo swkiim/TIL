@@ -69,3 +69,4 @@
 ## ✅CentOS
  - <a href = "https://velog.io/@swkiim/CentOS-create">CentOS 생성<a>
  - <a href = "https://velog.io/@swkiim/CentOS-create-2">나머지 가상머신 설치<a>
+ - <a href = "https://velog.io/@swkiim/telnet-ssh-xrdp">원격 접속 설정<a>
