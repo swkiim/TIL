@@ -71,3 +71,4 @@
  - <a href = "https://velog.io/@swkiim/CentOS-create-2">나머지 가상머신 설치<a>
  - <a href = "https://velog.io/@swkiim/telnet-ssh-xrdp">원격 접속 설정<a>
  - <a href = "https://velog.io/@swkiim/RAID">RAID<a>
+ - <a href = "https://velog.io/@swkiim/nameserver-1">네임서버 동작 원리<a>
