@@ -66,6 +66,7 @@
  - <a href = "https://velog.io/@swkiim/docker-udp">UDP 통신<a>
 ## ✅ETC
  - <a href = "https://velog.io/@swkiim/Linux-file-system">Linux 파일 구조<a>
+ - <a href = "https://velog.io/@swkiim/firewall">방화벽<a>
 ## ✅CentOS
  - <a href = "https://velog.io/@swkiim/CentOS-create">CentOS 생성<a>
  - <a href = "https://velog.io/@swkiim/CentOS-create-2">나머지 가상머신 설치<a>
