@@ -68,6 +68,7 @@
  - <a href = "https://velog.io/@swkiim/Linux-file-system">Linux 파일 구조<a>
  - <a href = "https://velog.io/@swkiim/proccess">프로세스 및 모니터링<a>
  - <a href = "https://velog.io/@swkiim/firewall">방화벽<a>
+ - <a href = "https://velog.io/@swkiim/iptables">방화벽2<a>
 ## ✅CentOS
  - <a href = "https://velog.io/@swkiim/CentOS-create">CentOS 생성<a>
  - <a href = "https://velog.io/@swkiim/CentOS-create-2">나머지 가상머신 설치<a>
