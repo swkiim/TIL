@@ -78,3 +78,4 @@
  - <a href = "https://velog.io/@swkiim/nameserver-2">네임서버 구축<a>
  - <a href = "https://velog.io/@swkiim/mailserver">메일서버<a>
  - <a href = "https://velog.io/@swkiim/DBMS">DBMS<a>
+ - <a href = "https://velog.io/@swkiim/DBMS-2">DBMS-2<a>
