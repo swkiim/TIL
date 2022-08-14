@@ -83,3 +83,4 @@
  - <a href = "https://velog.io/@swkiim/ownCloud">ownCloud<a>
 ## ✅Shell
  - <a href = "https://velog.io/@swkiim/shell-variable">셸 - 변수<a>
+ - <a href = "https://velog.io/@swkiim/shell-if-case">셸 - if, case<a>
