@@ -84,3 +84,4 @@
 ## ✅Shell
  - <a href = "https://velog.io/@swkiim/shell-variable">셸 - 변수<a>
  - <a href = "https://velog.io/@swkiim/shell-if-case">셸 - if, case<a>
+ - <a href = "https://velog.io/@swkiim/shell-repeat">셸 - 반복문<a>
