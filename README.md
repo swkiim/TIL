@@ -86,3 +86,4 @@
  - <a href = "https://velog.io/@swkiim/shell-variable">셸 - 변수<a>
  - <a href = "https://velog.io/@swkiim/shell-if-case">셸 - if, case<a>
  - <a href = "https://velog.io/@swkiim/shell-repeat">셸 - 반복문<a>
+ - <a href = "https://velog.io/@swkiim/disk">Disk 용량이 가득 찼을 때 스크립트<a>
